@@ -1,0 +1,10 @@
+"showid";"price";"showdate";"showtime";"showtype";"movie_id";"theater_id"
+1;200.0;"16 June 2023";"6PM";"first show";1;2
+2;210.0;"16 June 2023";"6PM";"first show";2;1
+3;200.0;"16 June 2023";"6PM";"first show";3;4
+4;185.0;"16 June 2023";"10PM";"second show";4;5
+5;210.0;"16 June 2023";"6PM";"first show";4;4
+6;180.0;"16 June 2023";"10PM";"	second show";3;4
+7;190.0;"16 June 2023";"10PM";"	second show";2;2
+8;185.0;"16 June 2023";"2PM";"matinee";1;1
+9;190.0;"16 June 2023";"2PM";"matinee";2;1
